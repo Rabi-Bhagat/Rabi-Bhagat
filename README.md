@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Rabi Bhagat.<br>A Web & App Developer.<br>Passionate about coding, problem-solving.<br>💻 Tech Stack: JavaScript | Flutter | C | C++ | HTML | CSS | Dart
+Hello, I'm Rabi Bhagat.<br>A Web & App Developer.<br>Passionate about coding, problem-solving.<br>💻 Tech Stack: JavaScript | Flutter | C | C++ | HTML | CSS | Dart
 
 
 
