@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Rabi Bhagat.<br>A Web & App Developer.<br>Passionate about coding, problem-solving.<br>💻 Tech Stack: JavaScript | Flutter | C | C++ | HTML | CSS | Dart<br>📌 Currently Working On: Web & mobile apps, exploring AI & cloud technologies.<br>📫 Connect: Portfolio | [LinkedIn] (linkedin.com/in/rabi-bhagat789) | [Email] (rabibhagat789@gmail.com)<br>		       | [portfolio] (#)<br>
+Hi, I'm Rabi Bhagat.<br>A Web & App Developer.<br>Passionate about coding, problem-solving.<br>💻 Tech Stack: JavaScript | Flutter | C | C++ | HTML | CSS | Dart<br<br>
 
 
 ## 🌐 Socials:
