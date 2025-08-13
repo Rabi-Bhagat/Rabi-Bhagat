@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/rabi_bhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rabi bhagat" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rabi-bhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabi bhagat" height="30" width="40" /></a>
-<a href="https://fb.com/rabi.bhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rabi bhagat" height="30" width="40" /></a>
+<a href="https://fb.com/rabi.bhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rabi.p.Bhagat" height="30" width="40" /></a>
 </p>
 
 ---
@@ -70,4 +70,6 @@
 ---
 ![GitHub Snake Light](https://raw.githubusercontent.com/Rabi-prasad-Bhagat/Rabi-prasad-Bhagat/output/snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Rabi-prasad-Bhagat/Rabi-prasad-Bhagat/output/snake.svg#gh-dark-mode-only)
+![GitHub Snake Animation](https://raw.githubusercontent.com/Rabi-prasad-Bhagat/Rabi-prasad-Bhagat/output/snake.svg)
+
 
