@@ -44,7 +44,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats & Activity</h3>
+<!--<h3 align="center">📊 GitHub Stats & Activity</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rabi-Bhagat&show_icons=true&theme=dracula" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rabi-Bhagat&layout=compact&theme=dracula" height="150" />
@@ -71,5 +71,5 @@
 ![GitHub Snake Light](https://raw.githubusercontent.com/Rabi-prasad-Bhagat/Rabi-prasad-Bhagat/output/snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Rabi-prasad-Bhagat/Rabi-prasad-Bhagat/output/snake.svg#gh-dark-mode-only)
 ![GitHub Snake Animation](https://raw.githubusercontent.com/Rabi-prasad-Bhagat/Rabi-prasad-Bhagat/output/snake.svg)
-
+-->
 
