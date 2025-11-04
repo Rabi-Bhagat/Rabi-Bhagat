@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Next.js, Tailwind CSS, Node.js, and Data Structures & Algorithms**  
 - 👯 I’m looking to collaborate on **DevShare**  
 - 🤝 I’m looking for help with **EcoMart - Sustainable E-Commerce Website**  
-- 👨‍💻 All of my projects are available at [**My Portfolio**](https://myportfolio-nine-weld.vercel.app/)  
+- 👨‍💻 All of my projects are available at [**My Portfolio**](https://3-d-portfolio-six-omega.vercel.app/)  
 - 💬 Ask me about **React, JS, HTML, CSS, Flutter, Dart, C, C++, Python**  
 - 📫 Reach me at **rabibhagat789@gmail.com**  
 - ⚡ Fun fact: **I like to solve code patterns like a Rubik's Cube**  
